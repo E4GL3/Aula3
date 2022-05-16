@@ -1,0 +1,14 @@
+*Lisa* armazenam múltiplos objetos em uma única variável.
+Cada *objeto* tem um *índice* , que indica sua *posição* dentro da *lista*.
+O *índice* 0 refere-se ao * primeiro elemento* de uma *lista*
+OPERAÇÕES
+A função len() informa o tipo de  objetos em uma linha.
+#lista=[0,"Maria", True,-5,6] # Cria uma lista com quatro objetos  print(len(lista)) # Imprime 4
+A função  list()a alt era o tipo de um objeto para list e também para criar uma nova lista
+#minhaLista = list((45, "Olá" , 6.21)) # Cria uma lista com três objetos print (minhaLista) # Imprime [45, 'Olá', 6.21]
+#O primeiro obje tem como índice [0]
+LIST
+Ex: minhaLista = ["Tíba" , "Iguape" , "Pecém" , "Chumbuco , "Lagoinha" , "Bitupitá" , "Paracuru" , "Mandaú"] # Cria  uma lista com oito elementos
+Ex: print(minhaLista (:4)) # Imprime ('Taíba' , 'Iguape' , 'Pecém', 'Cuabuco'] (4-1)
+Ex: print (minhaLista[2:]) # Imprime [ 'Pecém , 'Chumbuco' , 'Lagoinha', 'Bitupitá' , Ṕaracuru' , 'Mundaú']
+A estrutura "in" é utilizada para checar um determinado objeto na lista (se ele está ou não na lista)
